@@ -1,0 +1,6 @@
+Azul: varrendo redes
+Azul piscando: testando senhas
+Verde piscando: rodando nmap
+Verde: script finalizado e relatorio enviado por e-mail
+Vermelho piscando: script finalizado sem enviar e-mail
+Vermelho: script não conseguiu conectar a nenhuma rede
